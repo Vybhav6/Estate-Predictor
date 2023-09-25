@@ -27,7 +27,7 @@ The primary goal of this project is to predict housing prices in Boston by analy
 
 
 ## Usage
-1. Clone this repository
+1. Clone this repository https://github.com/Vybhav6/Estate-Predictor
 2. Navigate to the project directory: `cd boston-housing-prediction`
 3. Open and run the Jupyter Notebooks to explore the project s teps and results.
 
